@@ -1,6 +1,7 @@
 /*
-Given the root of a binary tree, return the preorder traversal of its nodes' values.
-
+ Binary Tree Preorder Traversal
+ *  Top --> Bottom
+ *  Left --> Right
 */
 
 /**
